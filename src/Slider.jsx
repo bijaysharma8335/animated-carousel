@@ -4,15 +4,15 @@ import { FaAngleLeft, FaAngleRight } from "react-icons/fa";
 const data = [
     {
         id: 1,
-        imgUrl: "https://i.postimg.cc/PrMGqZwx/pexels-m-venter-1659437.jpg",
-        desc: "Some beautiful roads cannot be discovered without getting loss.",
+        imgUrl: "https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg",
+        desc: "Nature photography is a wide range of photography taken outdoors and devoted to displaying natural elements such as landscapes, wildlife, plants, and close-ups of natural scenes and textures.",
         name: "EXPLORE NATURE",
     },
     {
         id: 2,
-        imgUrl: "https://i.postimg.cc/bw6KxhLf/pexels-eberhard-grossgasteiger-1062249.jpg",
-        desc: "Some beautiful roads cannot be discovered without getting loss.",
-        name: "EXPLORE NATURE",
+        imgUrl: "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?cs=srgb&dl=pexels-joyston-judah-933054.jpg&fm=jpg",
+        desc: "A mountain range is a series or chain of mountains that are close together.",
+        name: "EXPLORE MOUNTAINS",
     },
     {
         id: 3,

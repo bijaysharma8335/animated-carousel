@@ -145,6 +145,7 @@ body {
   border-radius: 50%;
   border: 1px solid #555;
   transition: 0.5s;
+  margin: 2px;
 }
 
 .buttons button:hover{
